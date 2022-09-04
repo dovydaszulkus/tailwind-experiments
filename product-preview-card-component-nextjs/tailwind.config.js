@@ -13,6 +13,10 @@ module.exports = {
         'dark-grayish-blue': 'hsl(228, 12%, 48%)',
         'white': 'hsl(0, 0%, 100%)'
       },
+      fontFamily: {
+        'display': ['Fraunces', 'serif'],
+        'body': ['Montserrat', 'sans-serif'],
+      }
     },
   },
   plugins: [],
